@@ -1,0 +1,27 @@
+{
+  "aerolineaVirtualApp": {
+    "asiento": {
+      "home": {
+        "title": "Asientos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Asiento",
+        "createOrEditLabel": "创建或编辑 Asiento",
+        "notFound": "No Asientos found"
+      },
+      "created": "Asiento {{ param }} 创建成功",
+      "updated": "Asiento {{ param }} 更新成功",
+      "deleted": "Asiento {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Asiento {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Asiento"
+      },
+      "id": "ID",
+      "numero": "Numero",
+      "clase": "Clase",
+      "disponible": "Disponible",
+      "reserva": "Reserva"
+    }
+  }
+}

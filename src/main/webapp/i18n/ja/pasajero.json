@@ -1,0 +1,29 @@
+{
+  "aerolineaVirtualApp": {
+    "pasajero": {
+      "home": {
+        "title": "Pasajeros",
+        "refreshListLabel": "リストの更新",
+        "createLabel": "Pasajero の作成",
+        "createOrEditLabel": "Pasajeroの作成または編集",
+        "notFound": "Pasajeros が見つかりません。"
+      },
+      "created": "新しい Pasajero がID {{ param }} で作成されました。",
+      "updated": "ID {{ param }} の Pasajero が更新されました。",
+      "deleted": "ID {{ param }} の Pasajero が削除されました。",
+      "delete": {
+        "question": "Pasajero {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Pasajero"
+      },
+      "id": "ID",
+      "nombre": "Nombre",
+      "apellido": "Apellido",
+      "email": "Email",
+      "telefono": "Telefono",
+      "fechaNacimiento": "Fecha Nacimiento",
+      "reserva": "Reserva"
+    }
+  }
+}

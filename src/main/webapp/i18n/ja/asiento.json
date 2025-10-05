@@ -1,0 +1,27 @@
+{
+  "aerolineaVirtualApp": {
+    "asiento": {
+      "home": {
+        "title": "Asientos",
+        "refreshListLabel": "リストの更新",
+        "createLabel": "Asiento の作成",
+        "createOrEditLabel": "Asientoの作成または編集",
+        "notFound": "Asientos が見つかりません。"
+      },
+      "created": "新しい Asiento がID {{ param }} で作成されました。",
+      "updated": "ID {{ param }} の Asiento が更新されました。",
+      "deleted": "ID {{ param }} の Asiento が削除されました。",
+      "delete": {
+        "question": "Asiento {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Asiento"
+      },
+      "id": "ID",
+      "numero": "Numero",
+      "clase": "Clase",
+      "disponible": "Disponible",
+      "reserva": "Reserva"
+    }
+  }
+}

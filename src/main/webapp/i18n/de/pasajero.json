@@ -1,0 +1,29 @@
+{
+  "aerolineaVirtualApp": {
+    "pasajero": {
+      "home": {
+        "title": "Pasajeros",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Pasajero erstellen",
+        "createOrEditLabel": "Pasajero erstellen oder bearbeiten",
+        "notFound": "Keine Pasajeros gefunden"
+      },
+      "created": "Pasajero erstellt mit ID {{ param }}",
+      "updated": "Pasajero aktualisiert mit ID {{ param }}",
+      "deleted": "Pasajero gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Pasajero {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Pasajero"
+      },
+      "id": "ID",
+      "nombre": "Nombre",
+      "apellido": "Apellido",
+      "email": "Email",
+      "telefono": "Telefono",
+      "fechaNacimiento": "Fecha Nacimiento",
+      "reserva": "Reserva"
+    }
+  }
+}

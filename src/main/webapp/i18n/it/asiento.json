@@ -1,0 +1,27 @@
+{
+  "aerolineaVirtualApp": {
+    "asiento": {
+      "home": {
+        "title": "Asientos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Asiento",
+        "createOrEditLabel": "Genera o modifica un Asiento",
+        "notFound": "No Asientos found"
+      },
+      "created": "&Egrave; stato generato un nuovo Asiento con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Asiento identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Asiento con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Asiento {{ id }}?"
+      },
+      "detail": {
+        "title": "Asiento"
+      },
+      "id": "ID",
+      "numero": "Numero",
+      "clase": "Clase",
+      "disponible": "Disponible",
+      "reserva": "Reserva"
+    }
+  }
+}

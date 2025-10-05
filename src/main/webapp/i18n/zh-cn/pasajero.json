@@ -1,0 +1,29 @@
+{
+  "aerolineaVirtualApp": {
+    "pasajero": {
+      "home": {
+        "title": "Pasajeros",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Pasajero",
+        "createOrEditLabel": "创建或编辑 Pasajero",
+        "notFound": "No Pasajeros found"
+      },
+      "created": "Pasajero {{ param }} 创建成功",
+      "updated": "Pasajero {{ param }} 更新成功",
+      "deleted": "Pasajero {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Pasajero {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Pasajero"
+      },
+      "id": "ID",
+      "nombre": "Nombre",
+      "apellido": "Apellido",
+      "email": "Email",
+      "telefono": "Telefono",
+      "fechaNacimiento": "Fecha Nacimiento",
+      "reserva": "Reserva"
+    }
+  }
+}

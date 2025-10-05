@@ -1,0 +1,27 @@
+{
+  "aerolineaVirtualApp": {
+    "asiento": {
+      "home": {
+        "title": "Asientos",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Asiento erstellen",
+        "createOrEditLabel": "Asiento erstellen oder bearbeiten",
+        "notFound": "Keine Asientos gefunden"
+      },
+      "created": "Asiento erstellt mit ID {{ param }}",
+      "updated": "Asiento aktualisiert mit ID {{ param }}",
+      "deleted": "Asiento gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Asiento {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Asiento"
+      },
+      "id": "ID",
+      "numero": "Numero",
+      "clase": "Clase",
+      "disponible": "Disponible",
+      "reserva": "Reserva"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "aerolineaVirtualApp": {
+    "vuelo": {
+      "home": {
+        "title": "Vuelos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Vuelo",
+        "createOrEditLabel": "Genera o modifica un Vuelo",
+        "notFound": "No Vuelos found"
+      },
+      "created": "&Egrave; stato generato un nuovo Vuelo con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Vuelo identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Vuelo con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Vuelo {{ id }}?"
+      },
+      "detail": {
+        "title": "Vuelo"
+      },
+      "id": "ID",
+      "numeroVuelo": "Numero Vuelo",
+      "origen": "Origen",
+      "destino": "Destino",
+      "fechaSalida": "Fecha Salida",
+      "fechaLlegada": "Fecha Llegada",
+      "reserva": "Reserva"
+    }
+  }
+}

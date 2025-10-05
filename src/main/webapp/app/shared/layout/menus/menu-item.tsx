@@ -12,7 +12,7 @@ export interface IMenuItem {
   'data-cy'?: string;
 }
 
-const MenuItem = (props: IMenuItem) => {
+export const MenuItem = (props: IMenuItem) => {
   const { to, icon, id, children } = props;
 
   return (

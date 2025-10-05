@@ -1,0 +1,29 @@
+{
+  "aerolineaVirtualApp": {
+    "vuelo": {
+      "home": {
+        "title": "Vuelos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Vuelo",
+        "createOrEditLabel": "创建或编辑 Vuelo",
+        "notFound": "No Vuelos found"
+      },
+      "created": "Vuelo {{ param }} 创建成功",
+      "updated": "Vuelo {{ param }} 更新成功",
+      "deleted": "Vuelo {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Vuelo {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Vuelo"
+      },
+      "id": "ID",
+      "numeroVuelo": "Numero Vuelo",
+      "origen": "Origen",
+      "destino": "Destino",
+      "fechaSalida": "Fecha Salida",
+      "fechaLlegada": "Fecha Llegada",
+      "reserva": "Reserva"
+    }
+  }
+}

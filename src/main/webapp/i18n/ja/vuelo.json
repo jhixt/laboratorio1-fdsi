@@ -1,0 +1,29 @@
+{
+  "aerolineaVirtualApp": {
+    "vuelo": {
+      "home": {
+        "title": "Vuelos",
+        "refreshListLabel": "リストの更新",
+        "createLabel": "Vuelo の作成",
+        "createOrEditLabel": "Vueloの作成または編集",
+        "notFound": "Vuelos が見つかりません。"
+      },
+      "created": "新しい Vuelo がID {{ param }} で作成されました。",
+      "updated": "ID {{ param }} の Vuelo が更新されました。",
+      "deleted": "ID {{ param }} の Vuelo が削除されました。",
+      "delete": {
+        "question": "Vuelo {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Vuelo"
+      },
+      "id": "ID",
+      "numeroVuelo": "Numero Vuelo",
+      "origen": "Origen",
+      "destino": "Destino",
+      "fechaSalida": "Fecha Salida",
+      "fechaLlegada": "Fecha Llegada",
+      "reserva": "Reserva"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "aerolineaVirtualApp": {
+    "vuelo": {
+      "home": {
+        "title": "Vuelos",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Vuelo erstellen",
+        "createOrEditLabel": "Vuelo erstellen oder bearbeiten",
+        "notFound": "Keine Vuelos gefunden"
+      },
+      "created": "Vuelo erstellt mit ID {{ param }}",
+      "updated": "Vuelo aktualisiert mit ID {{ param }}",
+      "deleted": "Vuelo gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Vuelo {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Vuelo"
+      },
+      "id": "ID",
+      "numeroVuelo": "Numero Vuelo",
+      "origen": "Origen",
+      "destino": "Destino",
+      "fechaSalida": "Fecha Salida",
+      "fechaLlegada": "Fecha Llegada",
+      "reserva": "Reserva"
+    }
+  }
+}

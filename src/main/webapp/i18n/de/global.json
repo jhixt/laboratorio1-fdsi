@@ -1,13 +1,17 @@
 {
   "global": {
-    "title": "Labo1",
+    "title": "AerolineaVirtual",
     "browsehappy": "Sie benutzen einen <strong>veralteten</strong> Browser. Bitte <a href=\"http://browsehappy.com/?locale=de/\">aktualisieren Sie Ihren Browser</a>, um die Benutzerfreundlichkeit zu erhöhen.",
     "menu": {
       "home": "Startseite",
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entitäten",
-        "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
+        "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)",
+        "pasajero": "Pasajero",
+        "reserva": "Reserva",
+        "vuelo": "Vuelo",
+        "asiento": "Asiento"
       },
       "account": {
         "main": "Zugang",
